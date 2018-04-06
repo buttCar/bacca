@@ -1,0 +1,68 @@
+{\rtf1\ansi\ansicpg936\cocoartf1504\cocoasubrtf830
+{\fonttbl\f0\fnil\fcharset0 HelveticaNeue;\f1\fnil\fcharset134 .PingFangSC-Regular;}
+{\colortbl;\red255\green255\blue255;\red53\green53\blue53;}
+{\*\expandedcolortbl;;\cssrgb\c27059\c27059\c27059;}
+\margl1440\margr1440\vieww10800\viewh8400\viewkind0
+\deftab560
+\pard\pardeftab560\slleading20\partightenfactor0
+
+\f0\fs24 \cf2 \{\
+	"a": "MS4wLjA="
+\f1 ,
+\f0 \
+	"b": "WQ=="
+\f1 ,
+\f0 \
+	"c": "Tg=="
+\f1 ,
+\f0 \
+	"d": 
+\f1 [
+\f0 "aHR0cDovLzEwNC4xOTkuMjA0Ljc4L0JCSU5CYWNjYXJhdA=="
+\f1 ],
+\f0 \
+	"e": "http://104.199.204.78/BBINBaccarat"
+\f1 ,
+\f0 \
+	"f": 
+\f1 [
+\f0 "aHR0cDovL2FwcC5teXBheTcuY29tL2EvaW1hZ2UvZ2V0QVBQSW1hZ2U/ZmlsZU5hbWU9MTY3XzIyN18xLmpwZw=="
+\f1 ],
+\f0 \
+	"g": 
+\f1 [
+\f0 "aHR0cDovL2FwcC5teXBheTcuY29tL2EvaW1hZ2UvZ2V0QVBQSW1hZ2U/ZmlsZU5hbWU9MTY3XzIyOF8yLmpwZw=="
+\f1 ,
+\f0  "aHR0cDovL2FwcC5teXBheTcuY29tL2EvaW1hZ2UvZ2V0QVBQSW1hZ2U/ZmlsZU5hbWU9MTY3XzIyOV8yLmpwZw=="
+\f1 ,
+\f0  "aHR0cDovL2FwcC5teXBheTcuY29tL2EvaW1hZ2UvZ2V0QVBQSW1hZ2U/ZmlsZU5hbWU9MTY3XzIzMF8yLmpwZw=="
+\f1 ,
+\f0  "aHR0cDovL2FwcC5teXBheTcuY29tL2EvaW1hZ2UvZ2V0QVBQSW1hZ2U/ZmlsZU5hbWU9MTY3XzIzMV8yLmpwZw=="
+\f1 ,
+\f0  "aHR0cDovL2FwcC5teXBheTcuY29tL2EvaW1hZ2UvZ2V0QVBQSW1hZ2U/ZmlsZU5hbWU9MTY3XzIzMl8yLmpwZw=="
+\f1 ,
+\f0  "aHR0cDovL2FwcC5teXBheTcuY29tL2EvaW1hZ2UvZ2V0QVBQSW1hZ2U/ZmlsZU5hbWU9MTY3XzIzM18yLmpwZw=="
+\f1 ],
+\f0 \
+	"h": 
+\f1 [
+\f0 "5paw5Yqg5Z2h5aix5LmQ5Zy6"
+\f1 ],
+\f0 \
+	"i": "Tg=="
+\f1 ,
+\f0 \
+	"j": ""
+\f1 ,
+\f0 \
+	"k": ""
+\f1 ,
+\f0 \
+	"l": "WQ=="
+\f1 ,
+\f0 \
+	"m": "Tg=="
+\f1 ,
+\f0 \
+	"n": "Yg=="\
+\}}
